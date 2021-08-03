@@ -1,0 +1,44 @@
+/*************************************tag selectors***********************/
+hr {
+  background-color: #4b0082;
+  border-style: dotted none none;
+  border-color:   #ff8c00;
+  border-width: 4px;
+  height: 0px;
+  }
+
+h1{
+  color: #FF449F;
+  text-shadow: 2px 2px red;
+}
+h3{
+  color: #FF3F00;
+  font-size: 20px;
+  text-shadow: 1px 1px;
+}
+
+img{
+  height: 200px;
+}
+
+/*****************************class selectors*****************************/
+
+.Eshan{
+  background-color: Red;
+}
+
+
+.circular{
+  border-radius: 100%;
+}
+
+.skills:hover{
+  background-color: #A03C78;
+}
+
+/*********************************id selectors*************************/
+
+#jain:hover{
+   border-radius: 100%;
+   background-color: gold;
+}
